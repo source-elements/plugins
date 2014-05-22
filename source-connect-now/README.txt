@@ -58,7 +58,7 @@ template: Template to display. Default: 'default'
 
 == Frequently Asked Questions ==
 Please ask questions on the Community Forum:
-http://www.tinywebgallery.com/blog/advanced-iframe/advanced-iframe-faq/
+http://source-elements.com/community/?action=vtopic&forum=19
 
 == Upgrade Notice ==
 Simply overwrite all files from your previous installation.
