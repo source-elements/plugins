@@ -27,17 +27,17 @@ There are 2 ways to install the Source-Connect Now embed:
 
 *Using the Wordpress Admin screen*
 
-1. Click Plugins, Add New
-2. Search for advanced iframe
-3. Install and Activate it
+1. Click Plugins, Add New and choose 'Upload'
+2. Choose 'source-connect-now.zip'
+3. Install Now and Activate it
 4. Place '[source-connect-now username=""]' in your pages or posts. Make sure to add your username.
 5. Optionally change the settings with shortcode attributes (see below).
 
 *Using FTP*
 
-1. Upload 'source-connect-now' to the '/wp-content/plugins/' directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place '[advanced_iframe securitykey=""]' in your pages or posts. the security key can be found at Settings -> Advanced iframe
+1. Unzip and upload the folder 'source-connect-now' to the '/wp-content/plugins/' directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Place '[source-connect-now username=""]' in your pages or posts. Make sure to add your username.
 
 == Other Notes ==
 = Source-Connect Now attributes =
