@@ -59,7 +59,8 @@ There are 2 ways to install the Source-Connect Now embed:
 
 Below you find all possible shortcode attributes. 
 
-````[source-connect-now 
+````
+[source-connect-now 
   username=""	
   width=""   
   height="" 
