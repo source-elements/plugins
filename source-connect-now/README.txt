@@ -23,6 +23,9 @@ To embed Source-Connect Now to your page please check the first:
 * You have a Source-Connect username
 
 == Installation ==
+Download the Source-Connect Now Zip file:
+https://github.com/source-elements/plugins/blob/master/source-connect-now.zip
+
 There are 2 ways to install the Source-Connect Now embed:
 
 *Using the Wordpress Admin screen*
