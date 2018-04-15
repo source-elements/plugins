@@ -1,15 +1,15 @@
 plugins
 =======
 
-#Source Elements word-press plug-in for Source-Conenct Now
+# Source Elements word-press plug-in for Source-Conenct Now
 
-##Add Source-Connect Now to your WordPress installation using a Shortcode.
+## Add Source-Connect Now to your WordPress installation using a Shortcode.
 
 To embed Source-Connect Now to your page please check the first:
 
 * You have a Source-Connect username
 
-##Installation
+## Installation
 
 Download the Source-Connect Now Zip file:
 https://github.com/source-elements/plugins/blob/master/source-connect-now.zip
@@ -50,7 +50,7 @@ template: Template to display. Default: 'default'
 
 ````
 
-##Frequently Asked Questions
+## Frequently Asked Questions
 Please ask questions on the Community Forum:
 
 http://source-elements.com/community/?action=vtopic&forum=19
